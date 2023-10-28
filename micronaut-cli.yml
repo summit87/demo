@@ -1,0 +1,6 @@
+applicationType: messaging
+defaultPackage: com.example
+testFramework: junit
+sourceLanguage: java
+buildTool: maven
+features: [annotation-api, app-name, cache-caffeine, data, data-r2dbc, hibernate-reactive-jpa, http-client-test, jackson-databind, java, java-application, junit, kafka, kubernetes-reactor-client, kubernetes-rxjava2-client, logback, maven, maven-enforcer-plugin, micronaut-aop, postgres, r2dbc, reactor, readme, retry, rxjava3-http-client, serialization-jackson, shade, test-resources, yaml, yaml-build]
